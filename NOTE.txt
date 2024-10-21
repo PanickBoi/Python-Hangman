@@ -1,0 +1,13 @@
+--<> [ IMPORTANT ] <>--
+Seperate words by line like example:
+
+Bananas
+Fruits
+Apples
+
+what NOT to do:
+
+ Bananas
+Fruits
+   Apples
+Melons
